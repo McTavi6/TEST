@@ -66,3 +66,6 @@ urlpatterns = [
     path('tasks/', TaskList.as_view(), name='task-list'),
     path('tasks/<int:pk>/', TaskDetail.as_view(), name='task-detail'),
 ]
+
+
+Я не знаю Django xD, прежде занимаюсь разработкой своего проекта на JAVA
